@@ -76,6 +76,8 @@ This project demonstrates a practical and economical approach to smart home surv
 
 ---
 
-_This project was developed by Mritunjay Kumar Singh
+
+> 👨‍💻 Developed by: Mritunjay Kumar Singh
+
 
 
